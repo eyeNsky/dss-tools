@@ -1,2 +1,2 @@
 # dss-tools
-Helpful scripts for the DSS
+Helpful scripts and files for the DSS
